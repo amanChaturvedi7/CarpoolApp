@@ -23,7 +23,7 @@ and high fuel prices.
 
 ## Installation
 ● Allow your device to install apps from unknown sources. To learn how to do this
-click here .<br>
+click <a href="https://android.gadgethacks.com/how-to/android-basics-enable-unknown-sources-sideload-apps-0161947/">here</a> .<br>
 ● Install the apk and get connected.<br>
 ● Give permissions to make calls for this app.<br>
 
